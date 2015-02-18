@@ -1,4 +1,4 @@
-Homework: Multidimensional Arrays
+Multidimensional Arrays
 =================================
 
 ### Problem 1. Fill the matrix

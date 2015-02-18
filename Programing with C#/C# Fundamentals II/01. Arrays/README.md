@@ -1,4 +1,4 @@
-Homework: Arrays
+Arrays
 ================
 
 ### Problem 1. Allocate array
